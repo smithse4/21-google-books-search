@@ -1,0 +1,11 @@
+.google-nav {
+    background-color: #9B6A6C;
+}
+
+.nav-text {
+    color: white;
+}
+
+.nav-text:hover {
+    color: #E2B4BD;
+}
